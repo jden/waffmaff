@@ -1,0 +1,25 @@
+body{
+  background: black url(gifs/waffle.gif);
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+h1{
+  font-family: sans-serif;
+  color: orange;
+  text-shadow: 1px 1px white;
+}
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ul li{
+  padding: 0;
+  margin: 0;
+}
+ul img{
+  border-radius: 50%;
+  border: 2px solid white;
+  position: absolute;
+}
